@@ -13,6 +13,7 @@
 		F00DBD602370D5DD0064D94C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F00DBD5F2370D5DD0064D94C /* Assets.xcassets */; };
 		F00DBD632370D5DD0064D94C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F00DBD622370D5DD0064D94C /* Preview Assets.xcassets */; };
 		F00DBD662370D5DD0064D94C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F00DBD642370D5DD0064D94C /* LaunchScreen.storyboard */; };
+		F00DBD6E2370D6190064D94C /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00DBD6D2370D6190064D94C /* MyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F00DBD622370D5DD0064D94C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F00DBD652370D5DD0064D94C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F00DBD672370D5DD0064D94C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F00DBD6D2370D6190064D94C /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F00DBD592370D5DB0064D94C /* AppDelegate.swift */,
 				F00DBD5B2370D5DB0064D94C /* SceneDelegate.swift */,
 				F00DBD5D2370D5DB0064D94C /* ContentView.swift */,
+				F00DBD6D2370D6190064D94C /* MyViewController.swift */,
 				F00DBD5F2370D5DD0064D94C /* Assets.xcassets */,
 				F00DBD642370D5DD0064D94C /* LaunchScreen.storyboard */,
 				F00DBD672370D5DD0064D94C /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				F00DBD5A2370D5DB0064D94C /* AppDelegate.swift in Sources */,
 				F00DBD5C2370D5DB0064D94C /* SceneDelegate.swift in Sources */,
+				F00DBD6E2370D6190064D94C /* MyViewController.swift in Sources */,
 				F00DBD5E2370D5DB0064D94C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
